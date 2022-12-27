@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on LabFour</title>
+    <link>http://eyllnazzcan.github.io/posts/</link>
+    <description>Read the latest  Posts on LabFour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2022 19:57:23 +0200</lastBuildDate><atom:link href="http://eyllnazzcan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>http://eyllnazzcan.github.io/posts/home/</link>
+      <pubDate>Tue, 27 Dec 2022 19:57:23 +0200</pubDate>
+      
+      <guid>http://eyllnazzcan.github.io/posts/home/</guid>
+      <description>Hello World. This is my hugo webpage project for Cloud Computing Lab 4.</description>
+      <content:encoded>
+        <![CDATA[ <p>Hello World. This is my hugo webpage project for Cloud Computing Lab 4.</p>
+ ]]>
+      </content:encoded>
+    </item>
+    
+  </channel>
+</rss>
